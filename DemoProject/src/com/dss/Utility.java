@@ -10,6 +10,7 @@ public class Utility {
 	public void m1()
 	{
 		System.out.println("m1 method added by Dev2");
+		System.out.println("Dev2 added in 2nd line");
 	}
 	
 }
